@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screen>
+  <menu>
+    <item>
+      <title>Яндекс Музыка</title>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Yandex_Music_icon.svg/512px-Yandex_Music_icon.svg.png</image>
+      <action>https://music.yandex.ru</action>
+    </item>
+  </menu>
+</screen>
